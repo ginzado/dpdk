@@ -2,6 +2,7 @@
 # Copyright(c) 2017-2019 Intel Corporation
 
 apps = [
+        'ginzado-pseudowire',
         'dumpcap',
         'pdump',
         'proc-info',
